@@ -27,6 +27,25 @@ I am a B.Tech Computer Science and Engineering student at KL University (expecte
 | [**CI/CD Pipeline**](https://github.com/rohitnani-1902/CICD-PIPELINE) | Full-stack content-management system using React, Spring Boot, Docker, and Jenkins. |
 | [**Library Management System**](https://github.com/rohitnani-1902/Library-Management-System---FSAD) | Web application project focused on library-management workflows. |
 
+## Portfolio projects
+
+### AI & systems
+
+- [**RAG Document Intelligence**](https://github.com/rohitnani-1902/rag-document-intelligence) — local retrieval and evidence-based document exploration.
+- [**Matchwise — AI Resume Matcher**](https://github.com/rohitnani-1902/ai-resume-matcher) — privacy-conscious resume-to-role matching.
+- [**VibeLens — Multilingual Sentiment Analyzer**](https://github.com/rohitnani-1902/multilingual-sentiment-analyzer) — explainable sentiment analysis for English, Hindi, and Telugu.
+
+### Educational market simulations
+
+- [**SignalDeck — Market News Sentiment Radar**](https://github.com/rohitnani-1902/market-news-sentiment-radar)
+- [**ThesisFrame — Research Assistant**](https://github.com/rohitnani-1902/ai-stock-research-assistant)
+- [**RuleCraft — Trading Strategy Copilot**](https://github.com/rohitnani-1902/trading-strategy-copilot)
+- [**VectorTest — Quant Backtesting Engine**](https://github.com/rohitnani-1902/quant-backtesting-engine)
+- [**Paperfolio — Paper Trading Dashboard**](https://github.com/rohitnani-1902/paper-trading-dashboard)
+- [**RiskCanvas — Portfolio Risk Analytics**](https://github.com/rohitnani-1902/portfolio-risk-analytics)
+
+> Market-oriented projects use illustrative or simulated data and are for education—not investment advice.
+
 ## Technical toolkit
 
 | Area | Technologies |
