@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rohit 👋</h1>
 
-<!--
-**rohitnani-1902/rohitnani-1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-stack developer building practical web applications and exploring modern DevOps.
+</p>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building end-to-end applications with clean, deployable workflows
+- 🌱 Growing my skills in CI/CD, Docker, and application delivery
+- 💻 Working with Java, Spring Boot, React, JavaScript, and MySQL
+- ⚙️ Exploring Jenkins, Docker, Git, and production-ready development practices
+
+## Featured projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [CI/CD Pipeline](https://github.com/rohitnani-1902/CICD-PIPELINE) | A React and Spring Boot content-management system with Docker and Jenkins deployment workflows. |
+| [Library Management System](https://github.com/rohitnani-1902/Library-Management-System---FSAD) | A web application project focused on library-management workflows. |
+
+## Tech stack
+
+`Java` · `Spring Boot` · `React` · `JavaScript` · `MySQL` · `Docker` · `Jenkins` · `Git`
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
