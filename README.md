@@ -29,6 +29,8 @@ I am a B.Tech Computer Science and Engineering student at KL University (expecte
 
 ## Portfolio projects
 
+> 🚀 [**Open the live project studio**](https://rohit-project-studio-live.rohitchitirala.chatgpt.site) — one website for every interactive project.
+
 ### AI & systems
 
 - [**RAG Document Intelligence**](https://github.com/rohitnani-1902/rag-document-intelligence) — local retrieval and evidence-based document exploration.
